@@ -1,3 +1,3 @@
 # Cinema-Room-REST-Service
 
-Simple educatinal REST sevice for booking and returning cinema tickets
+Simple educational REST service for booking and returning cinema tickets
